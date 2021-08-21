@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**yisu-kim/yisu-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate frontend developer from Korea.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JavaScript, React, and TypeScript.
+- 🧐 I'm Interested in everything **Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/yisu-kim/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yisu-kim&hide=stars" />
+</a>
+
+<a href="https://github.com/yisu-kim/">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yisu-kim&hide=jupyter%20notebook,matlab&layout=compact" />
+</a>
