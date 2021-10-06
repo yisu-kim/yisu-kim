@@ -3,7 +3,7 @@
 I'm a passionate frontend developer from Korea.
 
 - 🌱 I’m currently learning JavaScript, React, and TypeScript.
-- 🧐 I'm interested in everything **Web Development**.
+- 🧐 I'm interested in everything Web Development.
 - 📝 I regularly write articles on [my blog](https://velog.io/@yisu-kim).
 
 <a href="https://github.com/yisu-kim/">
